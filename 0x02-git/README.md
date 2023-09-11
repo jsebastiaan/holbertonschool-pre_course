@@ -1,2 +1,2 @@
-[master f4792b1] Hot fix
- 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 5b028fe] Hot fix
+ 1 file changed, 2 insertions(+), 2 deletions(-)
